@@ -1,0 +1,8 @@
+*.exe
+bin/
+obj/
+Release/
+Debug/
+.vs/
+packages/
+*.userprefs
